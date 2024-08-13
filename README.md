@@ -1,1 +1,1 @@
-# OCR-App
+# MRZ_Scanner_App
