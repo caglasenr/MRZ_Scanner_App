@@ -120,7 +120,6 @@ class _CameraAppState extends State<CameraApp> {
   }
 }*/
 
-
 class CameraApp extends StatefulWidget {
   final CameraDescription camera;
 

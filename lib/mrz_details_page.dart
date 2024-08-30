@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
 
-
-
-
 class MRZDetailsPage extends StatelessWidget {
   final String name;
   final String surname;
